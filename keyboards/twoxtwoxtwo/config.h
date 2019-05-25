@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x0000
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Tyler Hoyt
-#define PRODUCT         Mini_Me_8
+#define PRODUCT         twoxtwoxtwo
 #define DESCRIPTION     A custom keyboard
 
 /* key matrix size */

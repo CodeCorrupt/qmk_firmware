@@ -1,1 +1,1 @@
-# The default keymap for Mini_Me_8
+# The default keymap for twoxtwoxtwo
